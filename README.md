@@ -18,7 +18,7 @@
 
 | Проект | Что сделал |
 |-|-|
-|[SQL](https://github.com/crumblinq/sql-playground) | Описание |
+|[SQL](https://github.com/crumblinq/sql-playground) | Практика SQL: агрегации, джойны, подзапросы, CTE, оконные функции |
 
 
 
