@@ -11,16 +11,22 @@
 
 | Проект | Что сделал | Стек |
 |-|-|-|
-|[Отток клиентов оператора связи](https://github.com/crumblinq/telecom-churn-prediction) | Построил модель предсказания оттока абонентов. В зависимости от приоритетов бизнеса, предложил два порога классификации для бизнеса - один экономит на промо предложениях, другой больше охватывает уходящих клиентов| Python, pandas, numpy, sklearn, LightGBM, CatBoost, seaborn, phik |
+|[Отток клиентов оператора связи](https://github.com/crumblinq/telecom-churn-prediction) | Построил модель предсказания оттока абонентов. В зависимости от приоритетов бизнеса, предложил два порога классификации - один экономит на промо предложениях, другой больше охватывает уходящих клиентов| Python, pandas, numpy, sklearn, LightGBM, CatBoost, seaborn, phik |
 |[Прогнозирование заказов такси](https://github.com/crumblinq/taxi-demand-forecast) | Отметил пики загруженности, учел тренд и сезонность, построил модель прогноза заказов такси по часам| Python, pandas, numpy, CatBoost, LightGBM, statsmodels, sklearn |
 
 **SQL Projects**
 
-| Проект | Что сделал |
-|-|-|
-|[SQL](https://github.com/crumblinq/sql-playground) | Практика SQL: агрегации, объединение таблиц, подзапросы, оконные функции |
+| Проект | Что сделал | Стек |
+|-|-|-|
+|[SQL](https://github.com/crumblinq/sql-playground) | Практика SQL: агрегация (COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING), объединение таблиц (JOIN, UNION), подзапросы (WITH), условия (CASE WHEN), оконные функции | SQL, PostgreSQL |
 
+## Сертификаты и курсы
 
+- 🏆 Яндекс Практикум - Data Science (2024-2025)
+- 🏆 Microsoft - MTA: Database Fundamentals (2022)
+- 📖 EPAM - SQL by Examples (2026)
+- 📖 EPAM - Data & Analytics. Introduction to SQL (2025)
+- 📖 DataBoom - Мини-курс по аналитике (PowerBI) (2022)
 
 <!--
 **crumblinq/crumblinq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
