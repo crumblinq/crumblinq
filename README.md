@@ -6,21 +6,21 @@
 
 
 
-**Data Analyst Projects**
+### **Data Analyst Projects**
 
 | Проект | Описание | Стек |
 |-|-|-|
 |[Определение закономерностей, определяющие успешность видеоигры](https://github.com/crumblinq/videogame-market-analysis) | Исследовательский анализ продаж рынка видеоигр: определил жизненный цикл платформ, предпочтения регионов, влияние факторов на продажи | Python, pandas, matplotlib, scipy |
 |[Повышение активности постоянных покупателей интернет-магазина](https://github.com/crumblinq/customer-retention-analysis) | Сегментация покупателей, предсказание оттока и персональные рекомендации для сегментов -  кому напомнить о корзине, кому предложить скидку, а кого лучше не трогать | Python, pandas, sklearn, seaborn, SHAP |
 
-**Data Science Projects**
+### **Data Science Projects**
 
 | Проект | Описание | Стек |
 |-|-|-|
 |[Отток клиентов оператора связи](https://github.com/crumblinq/telecom-churn-prediction) | Построил модель предсказания оттока абонентов. В зависимости от приоритетов бизнеса, предложил два порога классификации - один экономит на промо предложениях, другой больше охватывает  уходящих клиентов| Python, pandas, numpy, sklearn, LightGBM, CatBoost, seaborn, phik |
 |[Прогнозирование заказов такси](https://github.com/crumblinq/taxi-demand-forecast) | Выделил пики загруженности, учел тренд и сезонность, построил модель прогноза заказов такси по часам| Python, pandas, numpy, CatBoost, LightGBM, statsmodels, sklearn |
 
-**SQL Projects**
+### **SQL Projects**
 
 | Проект | Описание | Стек |
 |-|-|-|
