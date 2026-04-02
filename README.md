@@ -2,23 +2,23 @@
 
 **Data Analyst Projects**
 
-| Проект | Что сделал | Стек |
+| Проект | Описание | Стек |
 |-|-|-|
-|[Определение закономерностей, определяющие успешность видеоигры](https://github.com/crumblinq/videogame-market-analysis) | Исследовательский анализ продаж рынка видеоигр: жизненный цикл платформ, предпочтения регионов, влияние факторов на продажи | Python, pandas, matplotlib, scipy |
+|[Определение закономерностей, определяющие успешность видеоигры](https://github.com/crumblinq/videogame-market-analysis) | Исследовательский анализ продаж рынка видеоигр: определил жизненный цикл платформ, предпочтения регионов, влияние факторов на продажи | Python, pandas, matplotlib, scipy |
 |[Повышение активности постоянных покупателей интернет-магазина](https://github.com/crumblinq/customer-retention-analysis) | Сегментация покупателей, предсказание оттока и персональные рекомендации для сегментов -  кому напомнить о корзине, кому предложить скидку, а кого лучше не трогать | Python, pandas, sklearn, seaborn, SHAP |
 
 **Data Science Projects**
 
-| Проект | Что сделал | Стек |
+| Проект | Описание | Стек |
 |-|-|-|
-|[Отток клиентов оператора связи](https://github.com/crumblinq/telecom-churn-prediction) | Построил модель предсказания оттока абонентов. В зависимости от приоритетов бизнеса, предложил два порога классификации - один экономит на промо предложениях, другой больше охватывает уходящих клиентов| Python, pandas, numpy, sklearn, LightGBM, CatBoost, seaborn, phik |
-|[Прогнозирование заказов такси](https://github.com/crumblinq/taxi-demand-forecast) | Отметил пики загруженности, учел тренд и сезонность, построил модель прогноза заказов такси по часам| Python, pandas, numpy, CatBoost, LightGBM, statsmodels, sklearn |
+|[Отток клиентов оператора связи](https://github.com/crumblinq/telecom-churn-prediction) | Построил модель предсказания оттока абонентов. В зависимости от приоритетов бизнеса, предложил два порога классификации - один экономит на промо предложениях, другой больше охватывает  уходящих клиентов| Python, pandas, numpy, sklearn, LightGBM, CatBoost, seaborn, phik |
+|[Прогнозирование заказов такси](https://github.com/crumblinq/taxi-demand-forecast) | Выделил пики загруженности, учел тренд и сезонность, построил модель прогноза заказов такси по часам| Python, pandas, numpy, CatBoost, LightGBM, statsmodels, sklearn |
 
 **SQL Projects**
 
-| Проект | Что сделал | Стек |
+| Проект | Описание | Стек |
 |-|-|-|
-|[SQL](https://github.com/crumblinq/sql-playground) | Практика SQL: агрегация (COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING), объединение таблиц (JOIN, UNION), подзапросы (WITH), условия (CASE WHEN), оконные функции | SQL, PostgreSQL |
+|[Практика SQL](https://github.com/crumblinq/sql-playground) | Агрегация (COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING), объединение таблиц (JOIN, UNION), подзапросы (WITH), условия (CASE WHEN), оконные функции | SQL, PostgreSQL |
 
 ## Сертификаты и курсы
 
