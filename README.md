@@ -26,8 +26,8 @@
 
 ## Сертификаты и курсы
 
-- 🏆 Яндекс Практикум - Data Science (2024-2025)
-- 🏆 Microsoft - MTA: Database Fundamentals (2022)
+- 🎓 Яндекс Практикум - Data Science (2024-2025)
+- 🎓 Microsoft - MTA: Database Fundamentals (2022)
 - 📖 EPAM - SQL by Examples (2026)
 - 📖 EPAM - Data & Analytics. Introduction to SQL (2025)
 - 📖 DataBoom - Мини-курс по аналитике (PowerBI) (2022)
