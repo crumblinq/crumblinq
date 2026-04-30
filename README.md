@@ -30,7 +30,7 @@
 ![certificate](https://api.iconify.design/fluent:certificate-24-regular.svg?color=%23d29922&width=20&height=20)&nbsp;**Microsoft** — MTA: Database Fundamentals · 2022  
 ![course](https://api.iconify.design/lucide:book-open.svg?color=%2358a6ff&width=16&height=16)&nbsp;**EPAM** — SQL by Examples · 2026  
 ![course](https://api.iconify.design/lucide:book-open.svg?color=%2358a6ff&width=16&height=16)&nbsp;**EPAM** — Data & Analytics. Introduction to SQL · 2025  
-![course](https://api.iconify.design/lucide:book-open.svg?color=%2358a6ff&width=16&height=16)&nbsp;**DataBoom** — Мини-курс по аналитике Power BI · 2022  
+![course](https://api.iconify.design/lucide:book-open.svg?color=%2358a6ff&width=16&height=16)&nbsp;**DataBoom** — Мини-курс по аналитике (Power BI) · 2022  
 
 <!--
 **crumblinq/crumblinq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
