@@ -15,8 +15,8 @@
 
 | Проект | Описание | Стек |
 |-|-|-|
-|[Уменьшение оттока клиентов оператора связи](https://github.com/crumblinq/telecom-churn-prediction) | Построил модель прогнозирования оттока абонентов. В зависимости от приоритетов бизнеса, предложил два порога классификации - один экономит на промо предложениях, другой больше охватывает  уходящих клиентов| Python, pandas, numpy, sklearn, LightGBM, CatBoost, seaborn, phik |
-|[Прогнозирование заказов такси](https://github.com/crumblinq/taxi-demand-forecast) | Выделил пики загруженности, учел тренд и сезонность, построил модель прогноза заказов такси по часам| Python, pandas, numpy, CatBoost, LightGBM, statsmodels, sklearn |
+|[Уменьшение оттока клиентов оператора связи](https://github.com/crumblinq/telecom-churn-prediction) | Построил модель прогнозирования оттока абонентов. В зависимости от приоритетов бизнеса, предложил два порога классификации - один экономит на промо предложениях, другой больше охватывает  уходящих клиентов| Python, NumPy, pandas,  sklearn, LightGBM, CatBoost, seaborn, phik |
+|[Прогнозирование заказов такси](https://github.com/crumblinq/taxi-demand-forecast) | Выделил пики загруженности, учел тренд и сезонность, построил модель прогноза заказов такси по часам| Python, NumPy, pandas, sklearn, statsmodels, LightGBM, CatBoost |
 
 ### **SQL Projects**
 
