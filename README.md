@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/Git-4169E1?style=flat&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-4169E1?style=flat&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-4169E1?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-4169E1?style=flat&logo=visualstudiocode&logoColor=white)
+<!--![VS Code](https://img.shields.io/badge/VS%20Code-4169E1?style=flat&logo=visualstudiocode&logoColor=white)-->
 
 ### **Data Analytics Projects**
 
