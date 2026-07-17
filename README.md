@@ -20,6 +20,14 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-4169E1?style=flat&logo=jupyter&logoColor=white)
 <!--![VS Code](https://img.shields.io/badge/VS%20Code-4169E1?style=flat&logo=visualstudiocode&logoColor=white)-->
 
+### **Data Analytics Projects**
+
+| Проект | Описание | Стек |
+|-|-|-|
+|[Определение закономерностей, влияющих на коммерческий успех видеоигр](https://github.com/crumblinq/videogame-market-analysis) | Исследовательский анализ продаж рынка видеоигр: определил жизненный цикл платформ, предпочтения регионов, влияние факторов на продажи | Python, pandas, matplotlib, scipy |
+|[SQL для анализа данных](https://github.com/crumblinq/sql-practice) | Наглядное решение аналитических задач и практика написания SQL запросов: агрегация (COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING), объединение таблиц (JOIN, UNION), подзапросы, конструкции WITH, условия (CASE WHEN), оконные функции | SQL, PostgreSQL |
+
+
 ### **Data Science Projects**
 
 | Проект | Описание | Стек |
@@ -28,12 +36,7 @@
 |[Повышение активности постоянных покупателей интернет-магазина](https://github.com/crumblinq/customer-retention-analysis) | Сегментация покупателей, предсказание оттока и рекомендации для каждого сегмента -  кому напомнить о корзине, кому предложить скидку, а кого лучше не трогать | Python, pandas, sklearn, seaborn, SHAP |
 |[Прогнозирование заказов такси](https://github.com/crumblinq/taxi-demand-forecast) | Выделил пики загруженности, учел тренд и сезонность, построил модель прогноза заказов такси по часам| Python, NumPy, pandas, sklearn, statsmodels, LightGBM, CatBoost |
 
-### **Data Analytics Projects**
 
-| Проект | Описание | Стек |
-|-|-|-|
-|[Определение закономерностей, влияющих на коммерческий успех видеоигр](https://github.com/crumblinq/videogame-market-analysis) | Исследовательский анализ продаж рынка видеоигр: определил жизненный цикл платформ, предпочтения регионов, влияние факторов на продажи | Python, pandas, matplotlib, scipy |
-|[SQL для анализа данных](https://github.com/crumblinq/sql-practice) | Наглядное решение аналитических задач и практика написания SQL запросов: агрегация (COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING), объединение таблиц (JOIN, UNION), подзапросы, конструкции WITH, условия (CASE WHEN), оконные функции | SQL, PostgreSQL |
 
 ## Сертификаты и курсы
 
