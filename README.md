@@ -15,9 +15,15 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-4169E1?style=flat&logo=scikitlearn&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-4169E1?style=flat&logoColor=white)
 ![seaborn](https://img.shields.io/badge/seaborn-4169E1?style=flat&logoColor=white)
-![Git](https://img.shields.io/badge/Git-4169E1?style=flat&logo=git&logoColor=white)
+![Linear Models](https://img.shields.io/badge/Linear%20Models-4169E1?style=flat)
+![Tree--based Models](https://img.shields.io/badge/Tree--based%20Models-4169E1?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-4169E1?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-4169E1?style=flat&logo=keras&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-4169E1?style=flat)
+![ResNet50](https://img.shields.io/badge/ResNet50-4169E1?style=flat)
 ![Power BI](https://img.shields.io/badge/Power%20BI-4169E1?style=flat&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-4169E1?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4169E1?style=flat&logo=git&logoColor=white)
 <!--![VS Code](https://img.shields.io/badge/VS%20Code-4169E1?style=flat&logo=visualstudiocode&logoColor=white)-->
 
 ### **Data Analytics Projects**
