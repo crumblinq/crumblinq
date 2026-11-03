@@ -7,12 +7,32 @@
 <!--Сейчас работаю в e-commerce, имею экономический бэкграунд, и мне нравится разбираться в цифрах, таблицах и данных. Здесь я публикую выполненные проекты по аналитике данных и машинному обучению.-->
 Привет! Меня зовут Дмитрий Шериязданов.
 
-Мне нравится разбираться в цифрах, таблицах и данных. Имею экономический бэкграунд и опыт работы в e-commerce и банковской сфере. Здесь я публикую часть своих выполненных проектов по аналитике данных и машинному обучению.
+Мне нравится разбираться в цифрах, таблицах и данных, поэтому я развиваюсь в направлениях Data Science и Machine Learning. Имею экономический бэкграунд, а также опыт работы в e-commerce и банковской сфере. Здесь я публикую некоторые из своих проектов по аналитике данных и машинному обучению.
 
 
 ## **Мои навыки и инструменты**
 
-![Python](https://img.shields.io/badge/Python-4169E1?style=flat&logo=python&logoColor=white)
+<p>
+  <picture><img src="https://img.shields.io/badge/Python-4169E1?style=flat&amp;logo=python&amp;logoColor=white" alt="Python"></picture>
+  <picture><img src="https://img.shields.io/badge/SQL-4169E1?style=flat&amp;logoColor=white" alt="SQL"></picture>
+  <picture><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"></picture>
+  <picture><img src="https://img.shields.io/badge/NumPy-4169E1?style=flat&amp;logo=numpy&amp;logoColor=white" alt="NumPy"></picture>
+  <picture><img src="https://img.shields.io/badge/pandas-4169E1?style=flat&amp;logo=pandas&amp;logoColor=white" alt="pandas"></picture>
+  <picture><img src="https://img.shields.io/badge/scikit--learn-4169E1?style=flat&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn"></picture>
+  <picture><img src="https://img.shields.io/badge/matplotlib-4169E1?style=flat&amp;logoColor=white" alt="matplotlib"></picture>
+  <picture><img src="https://img.shields.io/badge/seaborn-4169E1?style=flat&amp;logoColor=white" alt="seaborn"></picture>
+  <picture><img src="https://img.shields.io/badge/Linear%20Models-4169E1?style=flat" alt="Linear Models"></picture>
+  <picture><img src="https://img.shields.io/badge/Tree--based%20Models-4169E1?style=flat" alt="Tree-based Models"></picture>
+  <picture><img src="https://img.shields.io/badge/TensorFlow-4169E1?style=flat&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow"></picture>
+  <picture><img src="https://img.shields.io/badge/Keras-4169E1?style=flat&amp;logo=keras&amp;logoColor=white" alt="Keras"></picture>
+  <picture><img src="https://img.shields.io/badge/BERT-4169E1?style=flat" alt="BERT"></picture>
+  <picture><img src="https://img.shields.io/badge/ResNet50-4169E1?style=flat" alt="ResNet50"></picture>
+  <picture><img src="https://img.shields.io/badge/Power%20BI-4169E1?style=flat&amp;logoColor=white" alt="Power BI"></picture>
+  <picture><img src="https://img.shields.io/badge/Jupyter%20Notebook-4169E1?style=flat&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook"></picture>
+  <picture><img src="https://img.shields.io/badge/Git-4169E1?style=flat&amp;logo=git&amp;logoColor=white" alt="Git"></picture>
+</p>
+
+<!--!![Python](https://img.shields.io/badge/Python-4169E1?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-4169E1?style=flat&logo=numpy&logoColor=white) 
@@ -28,7 +48,8 @@
 ![ResNet50](https://img.shields.io/badge/ResNet50-4169E1?style=flat)
 ![Power BI](https://img.shields.io/badge/Power%20BI-4169E1?style=flat&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-4169E1?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-4169E1?style=flat&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4169E1?style=flat&logo=git&logoColor=white)-->
+
 <!--![VS Code](https://img.shields.io/badge/VS%20Code-4169E1?style=flat&logo=visualstudiocode&logoColor=white)-->
 
 ### **Data Analytics Projects**
@@ -50,13 +71,20 @@
 
 
 ## Сертификаты и курсы
+<picture><img src="https://api.iconify.design/fluent/certificate-24-regular.svg?color=%23d29922&amp;width=20&amp;height=20" width="20" height="20" alt=""></picture>&nbsp;<strong>Яндекс Практикум</strong> — Специалист по Data Science · 2024–2025<br>
+<picture><img src="https://api.iconify.design/fluent/certificate-24-regular.svg?color=%23d29922&amp;width=20&amp;height=20" width="20" height="20" alt=""></picture>&nbsp;<strong>Microsoft</strong> — MTA: Database Fundamentals · 2022<br>
+<picture><img src="https://api.iconify.design/lucide/book-open.svg?color=%2358a6ff&amp;width=16&amp;height=16" width="16" height="16" alt=""></picture>&nbsp;<strong>EPAM</strong> — SQL by Examples · 2026<br>
+<picture><img src="https://api.iconify.design/lucide/book-open.svg?color=%2358a6ff&amp;width=16&amp;height=16" width="16" height="16" alt=""></picture>&nbsp;<strong>EPAM</strong> — Data & Analytics. Introduction to SQL · 2025<br>
+<picture><img src="https://api.iconify.design/lucide/book-open.svg?color=%2358a6ff&amp;width=16&amp;height=16" width="16" height="16" alt=""></picture>&nbsp;<strong>DataBoom</strong> — Мини-курс по аналитике (Power BI) · 2022
 
-![certificate](https://api.iconify.design/fluent:certificate-24-regular.svg?color=%23d29922&width=20&height=20)&nbsp;**Яндекс Практикум** — Специалист по Data Science · 2024–2025  
+
+<!--![certificate](https://api.iconify.design/fluent:certificate-24-regular.svg?color=%23d29922&width=20&height=20)&nbsp;**Яндекс Практикум** — Специалист по Data Science · 2024–2025  
 ![certificate](https://api.iconify.design/fluent:certificate-24-regular.svg?color=%23d29922&width=20&height=20)&nbsp;**Microsoft** — MTA: Database Fundamentals · 2022  
 ![course](https://api.iconify.design/lucide:book-open.svg?color=%2358a6ff&width=16&height=16)&nbsp;**Andersen** — ML Engineer Individual Curriculum (technical interview preparation) · 2026  
 ![course](https://api.iconify.design/lucide:book-open.svg?color=%2358a6ff&width=16&height=16)&nbsp;**EPAM Learn** — SQL by Examples · 2026  
 ![course](https://api.iconify.design/lucide:book-open.svg?color=%2358a6ff&width=16&height=16)&nbsp;**EPAM Learn** — Data & Analytics. Introduction to SQL · 2025  
 ![course](https://api.iconify.design/lucide:book-open.svg?color=%2358a6ff&width=16&height=16)&nbsp;**DataBoom** — Мини-курс по аналитике (Power BI) · 2022  
+-->
 
 <!--
 **crumblinq/crumblinq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
