@@ -75,7 +75,7 @@
 <picture><img src="https://api.iconify.design/fluent/certificate-24-regular.svg?color=%23d29922&amp;width=20&amp;height=20" width="20" height="20" alt=""></picture>&nbsp;<strong>Microsoft</strong> — MTA: Database Fundamentals · 2022<br>
 <picture><img src="https://api.iconify.design/lucide/book-open.svg?color=%2358a6ff&amp;width=16&amp;height=16" width="16" height="16" alt=""></picture>&nbsp;<strong>EPAM</strong> — SQL by Examples · 2026<br>
 <picture><img src="https://api.iconify.design/lucide/book-open.svg?color=%2358a6ff&amp;width=16&amp;height=16" width="16" height="16" alt=""></picture>&nbsp;<strong>EPAM</strong> — Data & Analytics. Introduction to SQL · 2025<br>
-<picture><img src="https://api.iconify.design/lucide/book-open.svg?color=%2358a6ff&amp;width=16&amp;height=16" width="16" height="16" alt=""></picture>&nbsp;<strong>DataBoom</strong> — Мини-курс по аналитике (Power BI) · 2022
+<picture><img src="https://api.iconify.design/lucide/book-open.svg?color=%2358a6ff&amp;width=16&amp;height=16" width="16" height="16" alt=""></picture>&nbsp;<strong>DataBoom</strong> — Мини-курс по аналитике данных (Power BI) · 2022
 
 
 <!--![certificate](https://api.iconify.design/fluent:certificate-24-regular.svg?color=%23d29922&width=20&height=20)&nbsp;**Яндекс Практикум** — Специалист по Data Science · 2024–2025  
